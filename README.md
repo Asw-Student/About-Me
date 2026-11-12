@@ -13,6 +13,5 @@
       <pre><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzKhmDXoEp1hr5Q25KF0emSQzRC_6mEKic6pm3E59Xmw&s=10" alt="I opened 500 chests and still didn't get that damn Pirate Token 😭"></pre>
       <pre><a href="https://www.w3schools.com">The Coding Website</a></pre>
       <a href="www.tdsb.on.ca">My School</a>
-    [Go to Page 2](README2.md)
   </body>
 </html>
