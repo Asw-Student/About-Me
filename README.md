@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>The Best Starting Home Page</title>
+  <title></title>
 </head>
 <body>
   <h1>Good day</h1>
