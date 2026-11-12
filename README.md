@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
+  div {
+  background-color: blue
+  }
 <head>
   <meta charset="UTF-8">
 </head>
