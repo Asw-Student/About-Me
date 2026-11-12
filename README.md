@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<style>
-  body {
-  background-color: lightblue;
-}
-  </style>
+<mark>This is ONLY HTML. Just noticed that Github doesn't use CSS for .MD files. </mark>
 <head>
   <meta charset="UTF-8">
 </head>
