@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-  div {
-  background-color: blue
-  }
+  body {
+  background-color: lightblue;
+}
 <head>
   <meta charset="UTF-8">
 </head>
