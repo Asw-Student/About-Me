@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<mark>This is ONLY HTML. Just noticed that Github doesn't use CSS for .MD files. </mark>
+<mark>This is only the Readme. Just noticed that Github doesn't use CSS for .MD files. I'd rather you not read this (I know, Ironic). </mark>
 <head>
   <meta charset="UTF-8">
 </head>
